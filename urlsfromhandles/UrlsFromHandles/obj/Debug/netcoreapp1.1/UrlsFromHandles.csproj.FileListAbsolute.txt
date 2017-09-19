@@ -1,0 +1,10 @@
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\bin\Debug\netcoreapp1.1\UrlsFromHandles.deps.json
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\bin\Debug\netcoreapp1.1\UrlsFromHandles.runtimeconfig.json
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\bin\Debug\netcoreapp1.1\UrlsFromHandles.runtimeconfig.dev.json
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\bin\Debug\netcoreapp1.1\UrlsFromHandles.dll
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\bin\Debug\netcoreapp1.1\UrlsFromHandles.pdb
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\obj\Debug\netcoreapp1.1\UrlsFromHandles.csprojResolveAssemblyReference.cache
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\obj\Debug\netcoreapp1.1\UrlsFromHandles.csproj.CoreCompileInputs.cache
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\obj\Debug\netcoreapp1.1\UrlsFromHandles.AssemblyInfo.cs
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\obj\Debug\netcoreapp1.1\UrlsFromHandles.dll
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\urlsfromhandles\UrlsFromHandles\obj\Debug\netcoreapp1.1\UrlsFromHandles.pdb

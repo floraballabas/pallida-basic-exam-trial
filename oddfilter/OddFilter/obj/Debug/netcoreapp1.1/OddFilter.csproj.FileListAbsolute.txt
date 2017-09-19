@@ -1,0 +1,10 @@
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\oddfilter\OddFilter\bin\Debug\netcoreapp1.1\OddFilter.deps.json
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\oddfilter\OddFilter\bin\Debug\netcoreapp1.1\OddFilter.runtimeconfig.json
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\oddfilter\OddFilter\bin\Debug\netcoreapp1.1\OddFilter.runtimeconfig.dev.json
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\oddfilter\OddFilter\bin\Debug\netcoreapp1.1\OddFilter.dll
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\oddfilter\OddFilter\bin\Debug\netcoreapp1.1\OddFilter.pdb
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\oddfilter\OddFilter\obj\Debug\netcoreapp1.1\OddFilter.csprojResolveAssemblyReference.cache
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\oddfilter\OddFilter\obj\Debug\netcoreapp1.1\OddFilter.csproj.CoreCompileInputs.cache
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\oddfilter\OddFilter\obj\Debug\netcoreapp1.1\OddFilter.AssemblyInfo.cs
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\oddfilter\OddFilter\obj\Debug\netcoreapp1.1\OddFilter.dll
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\oddfilter\OddFilter\obj\Debug\netcoreapp1.1\OddFilter.pdb

@@ -1,0 +1,10 @@
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\namefromemail\NameFromEmail\bin\Debug\netcoreapp1.1\NameFromEmail.deps.json
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\namefromemail\NameFromEmail\bin\Debug\netcoreapp1.1\NameFromEmail.runtimeconfig.json
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\namefromemail\NameFromEmail\bin\Debug\netcoreapp1.1\NameFromEmail.runtimeconfig.dev.json
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\namefromemail\NameFromEmail\bin\Debug\netcoreapp1.1\NameFromEmail.dll
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\namefromemail\NameFromEmail\bin\Debug\netcoreapp1.1\NameFromEmail.pdb
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\namefromemail\NameFromEmail\obj\Debug\netcoreapp1.1\NameFromEmail.csprojResolveAssemblyReference.cache
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\namefromemail\NameFromEmail\obj\Debug\netcoreapp1.1\NameFromEmail.csproj.CoreCompileInputs.cache
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\namefromemail\NameFromEmail\obj\Debug\netcoreapp1.1\NameFromEmail.AssemblyInfo.cs
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\namefromemail\NameFromEmail\obj\Debug\netcoreapp1.1\NameFromEmail.dll
+C:\Users\Flóra\greenfox\floraballabas\pallida-basic-exam-trial\namefromemail\NameFromEmail\obj\Debug\netcoreapp1.1\NameFromEmail.pdb
